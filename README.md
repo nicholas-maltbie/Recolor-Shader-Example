@@ -18,7 +18,8 @@ Here is a description of the various directories in the project
 
 # Examples
 
-Here is a summary of the various 
+Here is a summary of the various examples in this project. Each link provides a tutorial on how part of the shader works
+and the final link shows the completed shader in action.
 
 1. [Hello Shaders](Examples/1.HelloShaders.md)
 2. [Colored Shaders](Examples/2.ColoredShaders.md)
