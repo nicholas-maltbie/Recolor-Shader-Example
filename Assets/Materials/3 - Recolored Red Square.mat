@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 3 - Recolored Images
+  m_Name: 3 - Recolored Red Square
   m_Shader: {fileID: -6465566751694194690, guid: e4330e2155aacf742900b616c002f461, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -132,7 +132,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_60a63d6baf5541ba9dda6f96d262de65: {r: 1, g: 0, b: 0, a: 0}
+    - Color_60a63d6baf5541ba9dda6f96d262de65: {r: 1, g: 0.24056602, b: 0.24056602, a: 0}
     - _Backgroun2: {r: 0.6117647, g: 0.6886792, b: 0.15559103, a: 0}
     - _Background1: {r: 1, g: 0.6236605, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
