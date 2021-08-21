@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 4 - Combine Images
-  m_Shader: {fileID: -6465566751694194690, guid: 6ee87c2d743bb7c4bb9f126fbc157abf, type: 3}
+  m_Name: 4 - Combine Images Gradient
+  m_Shader: {fileID: -6465566751694194690, guid: 1b00bfbd3773f9d49a7be1da4e5d6083, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -32,6 +32,18 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_cb0aae65c33047228b8ce4023f7f4fc1:
+        m_Texture: {fileID: 2800000, guid: 1d1018b4a619c2a4293334587d90c34c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_cb0aae65c33047228b8ce4023f7f4fc1_1:
+        m_Texture: {fileID: 2800000, guid: 9f85637504a77fc478d9b21c80baa400, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_cb0aae65c33047228b8ce4023f7f4fc1_2:
+        m_Texture: {fileID: 2800000, guid: e3f3f06970c632c42b66844658cbc609, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _AlbedoTexture:
         m_Texture: {fileID: 2800000, guid: 692b14df8a565624fa35165a83b95c75, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -97,6 +109,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_d3816da0762e4c76a98ed05b0bd4ea5a: 2
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
