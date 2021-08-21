@@ -16,11 +16,11 @@ Install this version of Unity from Unity Hub using this unity hub link
 Here is a summary of the various examples in this project. Each link provides a tutorial on how part of the shader works
 and the final link shows the completed shader in action.
 
-1. [Hello Shaders](Examples/1.HelloShaders.md)
-2. [Colored Shaders](Examples/2.ColoredShaders.md)
-3. [Recoloring Images](Examples/3.RecoloringImages.md)
-4. [Combining Images](Examples/4.CombiningImages.md)
-5. [Final Combination](Examples/5.FinalCombination.md)
+1. [Hello Shaders](Examples/1.HelloShaders.md) - Basic Shader introduction.
+2. [Colored Shaders](Examples/2.ColoredShaders.md) - Create a solid color shader. 
+3. [Recoloring Images](Examples/3.RecoloringImages.md) - Recoloring a black and white image.
+4. [Combining Images](Examples/4.CombiningImages.md) - Combining two images together.
+5. [Final Combination](Examples/5.FinalCombination.md) - Recoloring a black and white image two different colors.
 
 # Project Layout
 
