@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 2 - Colored Material
-  m_Shader: {fileID: -6465566751694194690, guid: 6ee87c2d743bb7c4bb9f126fbc157abf, type: 3}
+  m_Name: 2 - Colored Material Blue
+  m_Shader: {fileID: -6465566751694194690, guid: bbeb2f47eecf3aa4e96a6f891652e47d, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -124,6 +124,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - Color_bb8fb9c3d2934646a47f3fa87094b41b: {r: 0.1342115, g: 0.42180318, b: 0.9811321, a: 0}
     - _Backgroun2: {r: 0.6117647, g: 0.6886792, b: 0.15559103, a: 0}
     - _Background1: {r: 1, g: 0.6236605, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
