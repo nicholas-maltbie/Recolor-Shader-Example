@@ -2,7 +2,7 @@
 
 ![Example recoloring of a grey scale pattern into different color combinations](Examples/imgs/Showcase.png)
 
-This project demonstrates an example of how to use the Recolor shader developed in URP to recolor a grey scale image
+This project demonstrates an example of how to use the Recolor shader developed in Unity's Universal Render Pipeline to recolor a grey scale image
 using two different colors dynamically. 
 
 This project is developed using Unity  [LTS Release 2020.3.14f1](https://unity3d.com/unity/whats-new/2020.3.14).
