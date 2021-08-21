@@ -9,6 +9,10 @@ This project is developed using Unity  [LTS Release 2020.3.14f1](https://unity3d
 Install this version of Unity from Unity Hub using this unity hub link
 [unityhub://2020.3.14f1/d0d1bb862f9d](unityhub://2020.3.14f1/d0d1bb862f9d)
 
+This is an open source project licensed under a [MIT License](LICENSE.txt). Feel free to use a build of the project for
+your own work. If you see an error in the project or have any suggestions, write an issue or make a pull request, I'll
+happy include any suggestions or ideas into the project. 
+
 # Examples
 
 ![Rendering of the stages within one of the shader graphs for recoloring a grey scale texture to be multiple colors](Examples/imgs/5-GreyscaleRecolorShader.png)
@@ -21,6 +25,10 @@ and the final link shows the completed shader in action.
 3. [Recoloring Images](Examples/3.RecoloringImages.md) - Recoloring a black and white image.
 4. [Combining Images](Examples/4.CombiningImages.md) - Combining two images together.
 5. [Final Combination](Examples/5.FinalCombination.md) - Recoloring a black and white image two different colors.
+
+After going through these tutorials, you will know how to dynamically recolor grey scale using the shaders and materials in this project!
+
+![Varying the colors on a box with a triangle pattern](Examples/imgs/5-RecolorCubes.gif)
 
 # Project Layout
 
