@@ -5,6 +5,9 @@
 This project demonstrates an example of how to use the Recolor shader developed in Unity's Universal Render Pipeline to recolor a grey scale image
 using two different colors dynamically. 
 
+This shader was developed as part of the Falling Parkour Project here -
+[https://github.com/nicholas-maltbie/FallingParkour](https://github.com/nicholas-maltbie/FallingParkour)
+
 This project is developed using Unity  [LTS Release 2020.3.14f1](https://unity3d.com/unity/whats-new/2020.3.14).
 Install this version of Unity from Unity Hub using this unity hub link
 [unityhub://2020.3.14f1/d0d1bb862f9d](unityhub://2020.3.14f1/d0d1bb862f9d)
