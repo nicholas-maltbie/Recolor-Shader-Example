@@ -1641,7 +1641,7 @@
     },
     "m_Name": "Background Black",
     "m_DefaultReferenceName": "",
-    "m_OverrideReferenceName": "_Backgroun2",
+    "m_OverrideReferenceName": "_Background2",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
