@@ -41,3 +41,14 @@ Here is a description of the various directories in the project
 * `Assets/Recolor/Shaders` contains the shaders for the project.
 * `Assets/Recolor/Materials` contains the materials for the project.
 * `Assets/Recolor/Textures` contains the image textures used in examples
+
+# Development
+
+If you want to help with the project, feel free to make some changes and submit a PR to the repo.
+
+When working with the project, make sure to setup the `.githook` if you want to edit the code in the project. In order
+to do this, use the following command to reconfigure the `core.hooksPath` for your repository
+
+```bash
+git config --local core.hooksPath .githooks
+```
