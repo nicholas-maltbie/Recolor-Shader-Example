@@ -15,8 +15,6 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        projectPath:
-          - ""
         unityVersion:
           - 2020.3.14f1
         platform:
