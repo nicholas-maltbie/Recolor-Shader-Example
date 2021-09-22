@@ -36,10 +36,11 @@ After going through these tutorials, you will know how to dynamically recolor gr
 # Project Layout
 
 Here is a description of the various directories in the project
+* `Assets/Recolor/Materials` contains the materials for the project.
+* `Assets/Recolor/Models` contains the models used in the project.
 * `Assets/Recolor/Scenes` contains various scenes for the example project. Each scene is numbered and progress in order
   1, 2, ... This readme file will explain the assets in each scene. 
 * `Assets/Recolor/Shaders` contains the shaders for the project.
-* `Assets/Recolor/Materials` contains the materials for the project.
 * `Assets/Recolor/Textures` contains the image textures used in examples
 
 # Development
