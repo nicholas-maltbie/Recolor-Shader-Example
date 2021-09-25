@@ -488,8 +488,10 @@
         "m_GuidSerialized": "36607b9b-4db8-4952-ba10-7a68d547bece"
     },
     "m_Name": "Color",
-    "m_DefaultReferenceName": "Color_bb8fb9c3d2934646a47f3fa87094b41b",
-    "m_OverrideReferenceName": "",
+    "m_DefaultRefNameVersion": 0,
+    "m_RefNameGeneratedByDisplayName": "",
+    "m_DefaultReferenceName": "_Color",
+    "m_OverrideReferenceName": "_Color",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,

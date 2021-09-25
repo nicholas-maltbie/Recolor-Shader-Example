@@ -32,19 +32,19 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - Texture2D_0314c970cf1b4123a178c537ae7c0bf3:
+    - _Albedo:
         m_Texture: {fileID: 2800000, guid: 107a5130614657e4d8897b4b88ab30ad, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture2D_cb0aae65c33047228b8ce4023f7f4fc1:
+    - _Image_1:
         m_Texture: {fileID: 2800000, guid: 1d1018b4a619c2a4293334587d90c34c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture2D_cb0aae65c33047228b8ce4023f7f4fc1_1:
+    - _Image_2:
         m_Texture: {fileID: 2800000, guid: 9f85637504a77fc478d9b21c80baa400, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - Texture2D_cb0aae65c33047228b8ce4023f7f4fc1_2:
+    - _Mask:
         m_Texture: {fileID: 2800000, guid: e3f3f06970c632c42b66844658cbc609, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
