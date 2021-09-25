@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 4 - Combine Images Gradient
-  m_Shader: {fileID: -6465566751694194690, guid: 4766856688934b44c93e04e0b2192214, type: 3}
+  m_Name: 4 - Recored Grey Arrow
+  m_Shader: {fileID: -6465566751694194690, guid: e4330e2155aacf742900b616c002f461, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -32,16 +32,8 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - Texture2D_cb0aae65c33047228b8ce4023f7f4fc1:
-        m_Texture: {fileID: 2800000, guid: 15ff54575c4cac1408e5dc74c57a5f31, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture2D_cb0aae65c33047228b8ce4023f7f4fc1_1:
-        m_Texture: {fileID: 2800000, guid: 107a5130614657e4d8897b4b88ab30ad, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - Texture2D_cb0aae65c33047228b8ce4023f7f4fc1_2:
-        m_Texture: {fileID: 2800000, guid: e3f3f06970c632c42b66844658cbc609, type: 3}
+    - Texture2D_babaa6e38b1d4315aa7bbb679b0e96cc:
+        m_Texture: {fileID: 2800000, guid: 8a1248ee461877549bc99c45fa68f376, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _AlbedoTexture:
@@ -92,12 +84,12 @@ Material:
         m_Texture: {fileID: 2800000, guid: 8a1248ee461877549bc99c45fa68f376, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SpecGlossMap:
+    - _SampleTexture2D_06decef7251e419cbe07cd64069104c7_Texture_1:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _Texture2DAsset_f51e192d510f4fa0a8e607c0361b540c_Out_0:
-        m_Texture: {fileID: 2800000, guid: e3f3f06970c632c42b66844658cbc609, type: 3}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -114,7 +106,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - Vector1_d3816da0762e4c76a98ed05b0bd4ea5a: 2
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -142,8 +133,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_1: {r: 1, g: 0, b: 0, a: 0}
-    - Color_2: {r: 0.01737976, g: 1, b: 0, a: 0}
+    - Color_60a63d6baf5541ba9dda6f96d262de65: {r: 1, g: 1, b: 1, a: 0}
     - _Background1: {r: 1, g: 0.6236605, b: 0, a: 0}
     - _Background2: {r: 0.6117647, g: 0.6886792, b: 0.15559103, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
