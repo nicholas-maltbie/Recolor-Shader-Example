@@ -700,7 +700,7 @@
         "m_GuidSerialized": "fa68057e-0527-4fbd-8d64-0fc5910c89bc"
     },
     "m_Name": "Color",
-    "m_DefaultReferenceName": "Color_60a63d6baf5541ba9dda6f96d262de65",
+    "m_DefaultReferenceName": "_Color",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
@@ -989,7 +989,7 @@
         "m_GuidSerialized": "e0df0570-ecce-4741-a6e5-e5f2f9a4e171"
     },
     "m_Name": "Texture2D",
-    "m_DefaultReferenceName": "Texture2D_babaa6e38b1d4315aa7bbb679b0e96cc",
+    "m_DefaultReferenceName": "_Texture2D",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
