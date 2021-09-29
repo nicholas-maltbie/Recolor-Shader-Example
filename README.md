@@ -1,9 +1,10 @@
 # Recolor Shader Example
 
-![Example recoloring of a grey scale pattern into different color combinations](Examples/imgs/Showcase.png)
+[![Example of recolored cats with a rotating gif](Examples/imgs/Showcase-Cats.gif)](https://youtu.be/mV787RU6HWI)
 
-This project demonstrates an example of how to use the Recolor shader developed in Unity's Universal Render Pipeline to recolor a grey scale image
-using two different colors dynamically. 
+This project demonstrates an example of how to use the Recolor shader developed in Unity's Universal Render Pipeline to
+recolor a grey scale image using two different colors dynamically. I have made a video, [Custom Color Shader! Dynamic
+Recoloring Explained](https://youtu.be/mV787RU6HWI), which talks through the examples of this project and how the shader works.
 
 This shader was developed as part of the Falling Parkour Project here -
 [https://github.com/nicholas-maltbie/FallingParkour](https://github.com/nicholas-maltbie/FallingParkour)
@@ -11,6 +12,8 @@ This shader was developed as part of the Falling Parkour Project here -
 This project is developed using Unity  [LTS Release 2021.1.19f1](https://unity3d.com/unity/whats-new/2021.1.19).
 Install this version of Unity from Unity Hub using this unity hub link
 [unityhub://2021.1.19f1/d0d1bb862f9d](unityhub://2021.1.19f1/5f5eb8bbdc25)
+
+![Example recoloring of a grey scale pattern into different color combinations](Examples/imgs/Showcase.png)
 
 This is an open source project licensed under a [MIT License](LICENSE.txt). Feel free to use a build of the project for
 your own work. If you see an error in the project or have any suggestions, write an issue or make a pull request, I'll
